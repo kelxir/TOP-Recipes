@@ -1,0 +1,42 @@
+body {
+    background-color: #ff9d00;
+}
+
+.heading {
+    text-align: center;
+    color: #ef3100ea;
+    font-size: 70px;
+}
+
+.shrimp {
+    background: url('./images/shrimp.jpg');
+}
+
+.boursin {
+    background: url('./images/boursin.jpg');
+}
+
+.pizza {
+    background: url('./images/pizza.jpg');
+}
+
+.shrimp, .boursin, .pizza {
+    width: 750px;
+    height: 500px;
+    margin: auto;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.text {
+    font-size: 50px;
+    font-weight: bolder;
+    display: inline-block;
+    margin-top: 220px;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffea;
+}
